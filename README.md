@@ -39,21 +39,15 @@ if __name__ == "__main__":
 
 ---
 
-<div align="center">
-
-| 🏗️ Core Focus | 🛠️ Execution | 🌟 Philosophy |
-| :--- | :--- | :--- |
-| **Enterprise Cloud Platforms** | Full SDLC & End-to-End Delivery | **Continuous Learning & Adaptation** |
-| **Distributed Data Architectures** | Core Logic to DevOps Pipelines | **Stewardship & Team Elevation** |
-
-</div>
-
 <br/>
 
 * **⚡ From Curiosity to Cloud Scale:** Turned a childhood passion for how computer games worked into a Master’s in CS and an impactful career engineering resilient, global financial systems.
 * **🔥 Full-Lifecycle Authority:** I don't just write code; I architect, scale, secure, and deploy end-to-end cloud platforms with high availability and precision.
 * **🎯 High-Bar Stewardship:** I thrive in environments where the bar is set high—building robust systems, mentoring the next generation of engineers, and lifting the entire team’s capability.
 * **🌲 Grounded by the Wild:** Fueling my drive through raw nature—from high Himalayan mountain passes and blue Alaskan glaciers to silent wilderness trails.
+* **🥈 Enterprise GenAI Hackathon Winner:** Secured 3rd place for developing a Generative AI application tailored for a Non-Profit Organization (NPO).
+* **🌍 UN Sustainable Development Goals Challenge:** Winner of the **Micro-Tyco Challenge** for innovating project solutions aligned with UN SDG targets.
+* **🤖 STEM Mentorship & Volunteer Teaching:** Volunteer educator empowering kids to write their first lines of code using **MIT Scratch**, **VEXcode**, and **Robots**.
 
 ---
 
@@ -108,5 +102,14 @@ if __name__ == "__main__":
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+---
+
+<!-- SECTION 4: ACCOMPLISHMENTS, LEADERSHIP & CERTIFICATIONS -->
+
+## 🏆 Industry Certifications
+
+[![Google Generative AI Leader](https://img.shields.io/badge/Google-Generative_AI_Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/ef989029-a73a-473b-b24b-f81b02d819b1/public_url)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/d4fc882c-4e03-4e45-b2ab-5fba2109f057/public_url)
 
 ---
