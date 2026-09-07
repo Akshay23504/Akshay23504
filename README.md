@@ -2,34 +2,15 @@
 
 ##  Hello there! Welcome to my Developer Capsule 🚀
 
-```python
-class Engineer:
-    """
-    Profile: AVP | Senior Software Engineer
-    Power Level: > 9000
-    """
-    def __init__(self):
-        self.identity = {
-            "title": "Assistant Vice President",
-            "role": "Senior Software Engineer",
-            "speciality": "Large-Scale Cloud & Big Data Platforms",
-            "status": "Transforming into Ultra Instinct Data Architect"
-        }
-        # 🌱 I’m currently learning
-        self.stats = {
-            "ki_level": "Over 9000",
-            "hyperbolic_time_chamber": ["Databricks", "Snowflake", "Apache Airflow"], 
-            "passions": ["Cloud Architecture", "GenAI", "Wilderness Exploration"]
-        }
+<div align="center">
+    
+[![Python Profile Snippet](assets/developer_capsule_intro.gif)](scripts/generate_gif.py)
 
-    def power_up(self):
-        return f"⚡ {self.identity['title']} | {self.identity['role']} ⚡"
+<sub><i>💡 Click the animation above to view the Python script used to generate it!</i></sub>
 
-if __name__ == "__main__":
-    dev = Engineer()
-    print(dev.power_up())
-```
+</div>
 
+---
 
 <!-- SECTION 2: ABOUT ME -->
 
@@ -107,7 +88,7 @@ if __name__ == "__main__":
 
 <!-- SECTION 4: ACCOMPLISHMENTS, LEADERSHIP & CERTIFICATIONS -->
 
-## 🏆 Industry Certifications
+## 🏅 Industry Certifications
 
 [![Google Generative AI Leader](https://img.shields.io/badge/Google-Generative_AI_Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/ef989029-a73a-473b-b24b-f81b02d819b1/public_url)
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/d4fc882c-4e03-4e45-b2ab-5fba2109f057/public_url)
