@@ -94,3 +94,12 @@
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/d4fc882c-4e03-4e45-b2ab-5fba2109f057/public_url)
 
 ---
+
+<!-- SECTION 5: CONNECT & NETWORK -->
+
+## 🌐 Connect & Network
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay05)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-111111?style=for-the-badge&logo=globe&logoColor=white)](https://www.akshayaravind.com)
+
+---
