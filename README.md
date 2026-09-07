@@ -1,18 +1,3 @@
-<!--
-**Akshay23504/Akshay23504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- SECTION 1: HEADER & IDENTITY (PYTHON CYBER TERMINAL) -->
 
 ##  Hello there! Welcome to my Developer Capsule 🚀
@@ -30,9 +15,10 @@ class Engineer:
             "speciality": "Large-Scale Cloud & Big Data Platforms",
             "status": "Transforming into Ultra Instinct Data Architect"
         }
+        # 🌱 I’m currently learning
         self.stats = {
             "ki_level": "Over 9000",
-            "hyperbolic_time_chamber": ["Databricks", "Snowflake", "Apache Airflow"],
+            "hyperbolic_time_chamber": ["Databricks", "Snowflake", "Apache Airflow"], 
             "passions": ["Cloud Architecture", "GenAI", "Wilderness Exploration"]
         }
 
