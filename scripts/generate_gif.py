@@ -18,7 +18,7 @@ class Engineer:
             "title": "Assistant Vice President",
             "role": "Senior Software Engineer",
             "specialty": "Large-Scale Cloud & Big Data Platforms",
-            "current_form": "Ultra Instinct Data Architect"
+            "current_form": "Ultra Instinct Engineer"
         }
         self.training_ground: Dict[str, List[str]] = {
             "hyperbolic_time_chamber": ["Databricks", "Snowflake", "Apache Airflow"],  # Currently Mastering
